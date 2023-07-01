@@ -1,0 +1,350 @@
+.box1{
+    border: 1px solid black;
+    background-color: black;
+    height: 30px;
+}
+
+ul{
+    float: left;
+    color: white;
+}
+
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 300%;
+    width: 100px;
+    font-size: 14px;
+    font-family: barlow condensed,sans-serif;
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+h5{
+    margin-top: 1px;
+    color: white;
+    margin: 7px 12px;
+    position: relative;
+    left: -18%;
+    font-family: barlow condensed,sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.subbox{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+}
+
+ol{
+    float: left;
+
+}
+ ol li{
+    float: left;
+    width: 90px;
+    position: relative;
+    left: 25%;
+    list-style-type: none;
+    font-family: barlow condensed,sans-serif;
+    font-size: 18px;
+ }
+ ol li a{
+    text-decoration: none;
+    color:black;
+ }
+
+ ol li a:hover{
+    border-bottom: 4px solid red;
+ }
+
+ .fa-search{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+ }
+
+ .fa-user{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+ }
+
+ .fa-shopping-cart{
+    position: absolute;
+    left: 82%;
+    top: 9%;
+    color: black;
+    width: 25px;
+    height: -30px;
+    border-radius: 100px;
+    background-color: navajowhite;
+    margin-top: -2px;
+    margin-left: -4px;
+    text-align: left;
+ }
+
+ h3{
+    color: red;
+    position: absolute;
+    left: 88.8%;
+    top: 4%;
+    width: 18px;
+    height: -50px;
+    border-radius: 100px;
+    text-align: center;
+    font-family: barlow condensed,sans-serif;
+ }
+
+ h2{
+    position: relative;
+    left: -50.8%;
+    text-transform: uppercase;
+    font-family: barlow condensed,sans-serif;
+    margin-top: 4px;
+    font-weight: bolder;
+ }
+ font{
+    color: blueviolet;
+ }
+ .cover img{
+   background-size: cover;
+   height: 620px;
+   width: 1520px;
+ }
+ .text{
+   position: absolute;
+   top: 30%;
+   left: 7%;
+ }
+
+ h1{
+   font-size: 65px;
+   font-family: barlow condensed,sans-serif;
+   text-transform: capitalize;
+   width: 430px;
+   word-spacing: 0px;
+   font-weight: normal;
+   line-height: 72px;
+ }
+
+ h4{
+   position: absolute;
+   top: -4px;
+   font-size: 20px;
+   font-family: barlow condensed,sans-serif;
+   font-weight: normal;
+   text-transform: uppercase;
+ }
+
+ form input[type="submit"]{
+   position: absolute;
+   top: 86%;
+   padding: 10px;
+   text-transform: uppercase;
+   background-color: crimson;
+   border: navajowhite;
+   color: whitesmoke;
+   font-family: barlow condensed,sans-serif;
+   letter-spacing: 1px;
+ }
+
+ form input[type="submit"]:hover{
+   background-color: red;
+ }
+
+ .image22{
+   position: absolute;
+   left: 9%;
+   top: 95%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+ h6{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 55%;
+   border: 1px solid whitesmoke;
+   width: 200px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: white;
+   font-weight: normal;
+   text-align: center;
+ }
+
+ .image22:hover{ 
+   box-shadow: 1px 3px 9px;
+ }
+
+ .image23{
+   position: absolute;
+   left: 40%;
+   top: 95%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+ .image23:hover{
+   box-shadow: 1px 3px 9px;
+ }
+
+ h7{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 25%;
+   border: 1px solid whitesmoke;
+   width: 200px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: white;
+   font-weight: normal;
+   text-align: center;
+ }
+
+ .image24{
+   position: absolute;
+   left: 70%;
+   top: 95%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+ 
+ .image24:hover{
+   box-shadow: 1px 3px 9px;
+ }
+
+ h8{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 25%;
+   border: 1px solid whitesmoke;
+   width: 200px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: white;
+   font-weight: normal;
+   text-align: center;
+ }
+ 
+ .image25{
+   position: absolute;
+   left: 9%;
+   top: 165%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+
+ .image25:hover{
+   box-shadow: 1px 3px 9px;
+ }
+
+ h9{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 25%;
+   border: 1px solid whitesmoke;
+   width: 200px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: white;
+   font-weight: normal;
+   text-align: center;
+ }
+ 
+ .image26{
+   position: absolute;
+   left: 40%;
+   top: 165%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+
+ .image26:hover{
+   box-shadow: 1px 3px 9px;
+ }
+
+ h10{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 50%;
+   border: 1px solid whitesmoke;
+   width: 200px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: white;
+   font-weight: normal;
+   text-align: center;
+ }
+ 
+ .offer-img{
+   position: absolute;
+   left: 60%;
+   top: 240%;
+   border: 1px solid darkgray;
+   box-shadow: 1px 2px 4px;
+ }
+
+ .offer-img:hover{
+   box-shadow: 1px 3px 9px;
+ }
+
+ h11{
+   color: black;
+   position: absolute;
+   left: 40%;
+   top: 230%;
+   border: 10px whitesmoke red;
+   width: 400px;
+   font-size: 40px;
+   font-family: barlow condensed,sans-serif;
+   background-color: lightsalmon;
+   font-weight: normal;
+   text-align: center;
+ }
+
+ .h11:hover{
+   box-shadow: 1px 3px 12px;
+ }
+
+ h12{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 230%;
+   border: 10px whitesmoke pink;
+   width: 200px;
+   font-size: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: rgb(160, 222, 251);
+   font-weight: normal;
+   text-align: center;
+ }
+ 
+ h13{
+   color: black;
+   position: absolute;
+   left: 20%;
+   top: 240%;
+   border: 10px whitesmoke pink;
+   width: 600px;
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   background-color: rgb(243, 152, 152);
+   font-weight: normal;
+   text-align: center;
+ }
+ }
